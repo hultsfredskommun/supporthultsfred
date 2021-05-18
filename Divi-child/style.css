@@ -11,12 +11,6 @@
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
-/*.rekai-dropdown-menu {
-  position: relative!important;
-}
-.rekai-autocomplete.rekai-styled .rekai-dropdown-menu {
-  background: transparent!important;
-}*/
 
 /*#epkb-content-container { display: none; }*/
 #epkb-main-page-container.epkb-basic-template .epkb-doc-search-container { border-bottom: 0; }
@@ -69,4 +63,4 @@
 .wpcf7 input[type=text], .wpcf7 input.text, .wpcf7 input.title, .wpcf7 textarea {
     margin: 0;
     width: 100%;
-} 
+}
